@@ -26,7 +26,7 @@ Estimated time to complete core lab exercise: **90 min**
 
 You can find the starter code below. Instructions are in the setup.
 
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-sql-lab-starter-code)
+🟢 [Starter code](./intro-to-sql-lab-starter-code/)
 
 ### Solution code
 
